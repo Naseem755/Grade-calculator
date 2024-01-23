@@ -1,0 +1,42 @@
+/* Add this style for horizontal layout */
+.calculator-container {
+    max-width: 800px;
+    width: 100%;
+    background-color: #7e73c5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.input-container {
+    margin-bottom: 10px;
+}
+
+.subject-input {
+    width: 100%;
+    padding: 15px;
+    border: 3px solid #d7cccc;
+    border-radius: 5px;
+}
+
+.calculate-button {
+    background-color: #0cf010;
+    color: white;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.result-container {
+    margin-top: 50px;
+}
+
+.grade-result {
+    font-size: 50.20em;
+    margin-top: 50px;
+}
+
+.hidden {
+    display: none;
+}
